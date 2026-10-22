@@ -35,20 +35,6 @@ Change them in-game with **F1 -> Plugin Settings -> Anim Pause**, or edit `BepIn
 2. Put it in `BepInEx/plugins` in your Koikatsu folder.
 3. Start CharaStudio.
 
-## Building from source
-
-1. Clone this repository.
-2. Open the `.sln` in Visual Studio.
-3. Make sure the game and BepInEx references resolve (this project is based on [IllusionMods/PluginTemplate](https://github.com/IllusionMods/PluginTemplate)).
-4. Build, then copy the DLL to `BepInEx/plugins`.
-
-The whole plugin is a single file: `AnimPausePlugin.cs`.
-
-## Notes
-
-- Tested on: [Koikatsu]
-- CharaStudio only.
-
 ## License
 
 MIT. See [LICENSE](LICENSE).
