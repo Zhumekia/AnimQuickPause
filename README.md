@@ -9,7 +9,6 @@ Press the hotkey and the animation speed goes to 0 instantly. Press it again and
 - Pause or resume the **selected** characters with one key
 - Pause or resume **all** characters in the scene with a second key
 - Each character remembers its own previous speed
-- The Animation Controller's Speed slider is refreshed so it shows the current value
 - Both hotkeys can be changed in-game
 
 ## Hotkeys
