@@ -1,4 +1,4 @@
-# Anim Pause
+# Anim Quick Pause
 
 A small BepInEx plugin for **Koikatsu CharaStudio** that pauses and resumes character animations with a hotkey, instead of dragging the Speed slider in the Animation Controller.
 
